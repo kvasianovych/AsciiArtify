@@ -1,5 +1,7 @@
 # AsciiArtify
 
+[Demos](./demos.md)
+
 ## Kubernetes Tool Set Comparison for Local Development
 
 1. ### minikube
@@ -81,15 +83,3 @@
 | Resource Usage | Higher resource usage due to VM | Low resource usage | Low resource usage |
 | Cluster Type | Primarily single-node, multi-node possible | Multi-node supported | Multi-node supported |
 | Use Case Suitability | Learning, simple development | Lightweight local dev, CI/CD, rapid testing | CI/CD, network testing, complex dev setups |
-
-## K8S Demos
-### Minikube
-![minikube](../media/minikube.gif)
-### k3d
-![k3d](../media/k3d.gif)
-### kind
-![kind](../media/kind.gif)
-
-## App Demo
-### AsciiArtify
-![AsciiArtify-Demo](../media/w4argo.gif)
