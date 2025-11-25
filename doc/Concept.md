@@ -1,5 +1,9 @@
 # AsciiArtify
 
+- [Kubernetes Tool Set Comparison for Local Development](#Kubernetes Tool Set Comparison for Local Development)
+- [K8S Demos](#K8S Demos)
+- [App Demo](#App Demo)
+
 ## Kubernetes Tool Set Comparison for Local Development
 
 1. ### minikube
@@ -89,7 +93,6 @@
 ![k3d](../media/k3d.gif)
 ### kind
 ![kind](../media/kind.gif)
-
 
 ## App Demo
 ### AsciiArtify
